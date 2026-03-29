@@ -23,8 +23,16 @@
     "csv",
     "pdf"
   ],
-  "author": "",
+  "author": "David Franco",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidFranco3/react-apextable-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DavidFranco3/react-apextable-pro/issues"
+  },
+  "homepage": "https://github.com/DavidFranco3/react-apextable-pro#readme",
   "peerDependencies": {
     "jspdf": "^2.5.1",
     "jspdf-autotable": "^3.8.2",

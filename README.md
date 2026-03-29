@@ -3,6 +3,7 @@
 **ApexTable** is a high-performance, professional-grade React data table library built on top of `react-data-table-component`. It evolves the standard data table into a feature-rich "Power Grid" with native support for persistence, advanced sticky columns, multi-sorting, and high-fidelity exports.
 
 [![npm version](https://img.shields.io/badge/npm-1.0.0-blue.svg)](https://www.npmjs.com/package/react-apextable-pro)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/DavidFranco3/react-apextable-pro)
 [![License: ISC](https://img.shields.io/badge/License-ISC-brightgreen.svg)](https://opensource.org/licenses/ISC)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 
