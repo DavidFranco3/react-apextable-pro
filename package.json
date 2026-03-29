@@ -1,6 +1,6 @@
 {
   "name": "react-apextable-pro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ApexTable: A high-performance, professional-grade React data table library with built-in persistence, sticky columns, and advanced exports.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
