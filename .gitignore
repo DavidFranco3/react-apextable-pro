@@ -10,6 +10,7 @@ coverage/
 dist/
 dist-demo/
 dist-docs/
+**/dist-docs/
 build/
 
 # Misc
