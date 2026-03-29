@@ -1,0 +1,56 @@
+{
+  "name": "react-apextable-pro",
+  "version": "1.0.0",
+  "description": "ApexTable: A high-performance, professional-grade React data table library with built-in persistence, sticky columns, and advanced exports.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "lint": "tsc --noEmit",
+    "example": "vite example"
+  },
+  "keywords": [
+    "react",
+    "datatable",
+    "grid",
+    "sticky",
+    "persistence",
+    "csv",
+    "pdf"
+  ],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2",
+    "react": ">=16",
+    "react-csv": "^2.2.2",
+    "react-data-table-component": "^7.6.2",
+    "react-dom": ">=16",
+    "sweetalert2": "^11.10.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2",
+    "react": "^18.2.0",
+    "react-csv": "^2.2.2",
+    "react-data-table-component": "^7.6.2",
+    "react-dom": "^18.2.0",
+    "sweetalert2": "^11.10.1",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1"
+  }
+}
